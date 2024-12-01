@@ -1,0 +1,28 @@
+C:\Users\filemom.heck\Desktop\Rocketseat_Fundamentos_C_Sharp\bin\Debug\net8.0\Rocketseat_Fundamentos_C_Sharp.exe
+C:\Users\filemom.heck\Desktop\Rocketseat_Fundamentos_C_Sharp\bin\Debug\net8.0\Rocketseat_Fundamentos_C_Sharp.deps.json
+C:\Users\filemom.heck\Desktop\Rocketseat_Fundamentos_C_Sharp\bin\Debug\net8.0\Rocketseat_Fundamentos_C_Sharp.runtimeconfig.json
+C:\Users\filemom.heck\Desktop\Rocketseat_Fundamentos_C_Sharp\bin\Debug\net8.0\Rocketseat_Fundamentos_C_Sharp.dll
+C:\Users\filemom.heck\Desktop\Rocketseat_Fundamentos_C_Sharp\bin\Debug\net8.0\Rocketseat_Fundamentos_C_Sharp.pdb
+C:\Users\filemom.heck\Desktop\Rocketseat_Fundamentos_C_Sharp\obj\Debug\net8.0\Rocketseat_Fundamentos_C_Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filemom.heck\Desktop\Rocketseat_Fundamentos_C_Sharp\obj\Debug\net8.0\Rocketseat_Fundamentos_C_Sharp.AssemblyInfoInputs.cache
+C:\Users\filemom.heck\Desktop\Rocketseat_Fundamentos_C_Sharp\obj\Debug\net8.0\Rocketseat_Fundamentos_C_Sharp.AssemblyInfo.cs
+C:\Users\filemom.heck\Desktop\Rocketseat_Fundamentos_C_Sharp\obj\Debug\net8.0\Rocketseat_Fundamentos_C_Sharp.csproj.CoreCompileInputs.cache
+C:\Users\filemom.heck\Desktop\Rocketseat_Fundamentos_C_Sharp\obj\Debug\net8.0\Rocketseat_Fundamentos_C_Sharp.dll
+C:\Users\filemom.heck\Desktop\Rocketseat_Fundamentos_C_Sharp\obj\Debug\net8.0\refint\Rocketseat_Fundamentos_C_Sharp.dll
+C:\Users\filemom.heck\Desktop\Rocketseat_Fundamentos_C_Sharp\obj\Debug\net8.0\Rocketseat_Fundamentos_C_Sharp.pdb
+C:\Users\filemom.heck\Desktop\Rocketseat_Fundamentos_C_Sharp\obj\Debug\net8.0\Rocketseat_Fundamentos_C_Sharp.genruntimeconfig.cache
+C:\Users\filemom.heck\Desktop\Rocketseat_Fundamentos_C_Sharp\obj\Debug\net8.0\ref\Rocketseat_Fundamentos_C_Sharp.dll
+C:\Users\Filemom Viel Heck\Desktop\Rocketseat_Fundamentos_C_Sharp\bin\Debug\net8.0\Rocketseat_Fundamentos_C_Sharp.exe
+C:\Users\Filemom Viel Heck\Desktop\Rocketseat_Fundamentos_C_Sharp\bin\Debug\net8.0\Rocketseat_Fundamentos_C_Sharp.deps.json
+C:\Users\Filemom Viel Heck\Desktop\Rocketseat_Fundamentos_C_Sharp\bin\Debug\net8.0\Rocketseat_Fundamentos_C_Sharp.runtimeconfig.json
+C:\Users\Filemom Viel Heck\Desktop\Rocketseat_Fundamentos_C_Sharp\bin\Debug\net8.0\Rocketseat_Fundamentos_C_Sharp.dll
+C:\Users\Filemom Viel Heck\Desktop\Rocketseat_Fundamentos_C_Sharp\bin\Debug\net8.0\Rocketseat_Fundamentos_C_Sharp.pdb
+C:\Users\Filemom Viel Heck\Desktop\Rocketseat_Fundamentos_C_Sharp\obj\Debug\net8.0\Rocketseat_Fundamentos_C_Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filemom Viel Heck\Desktop\Rocketseat_Fundamentos_C_Sharp\obj\Debug\net8.0\Rocketseat_Fundamentos_C_Sharp.AssemblyInfoInputs.cache
+C:\Users\Filemom Viel Heck\Desktop\Rocketseat_Fundamentos_C_Sharp\obj\Debug\net8.0\Rocketseat_Fundamentos_C_Sharp.AssemblyInfo.cs
+C:\Users\Filemom Viel Heck\Desktop\Rocketseat_Fundamentos_C_Sharp\obj\Debug\net8.0\Rocketseat_Fundamentos_C_Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Filemom Viel Heck\Desktop\Rocketseat_Fundamentos_C_Sharp\obj\Debug\net8.0\Rocketseat_Fundamentos_C_Sharp.dll
+C:\Users\Filemom Viel Heck\Desktop\Rocketseat_Fundamentos_C_Sharp\obj\Debug\net8.0\refint\Rocketseat_Fundamentos_C_Sharp.dll
+C:\Users\Filemom Viel Heck\Desktop\Rocketseat_Fundamentos_C_Sharp\obj\Debug\net8.0\Rocketseat_Fundamentos_C_Sharp.pdb
+C:\Users\Filemom Viel Heck\Desktop\Rocketseat_Fundamentos_C_Sharp\obj\Debug\net8.0\Rocketseat_Fundamentos_C_Sharp.genruntimeconfig.cache
+C:\Users\Filemom Viel Heck\Desktop\Rocketseat_Fundamentos_C_Sharp\obj\Debug\net8.0\ref\Rocketseat_Fundamentos_C_Sharp.dll
